@@ -1,0 +1,1740 @@
+{
+    "statements": [
+        {
+            "text": "Octopuses have three hearts.",
+            "isFact": true,
+            "category": "science"
+        },
+        {
+            "text": "The shortest war in history was between Britain and Zanzibar in 1896, lasting only 38 minutes.",
+            "isFact": true,
+            "category": "history"
+        },
+        {
+            "text": "A group of flamingos is called a flamboyance.",
+            "isFact": true,
+            "category": "nature"
+        },
+        {
+            "text": "The fingerprints of koalas are so similar to humans that they have been confused at crime scenes.",
+            "isFact": true,
+            "category": "nature"
+        },
+        {
+            "text": "Honey never spoils. Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly good to eat.",
+            "isFact": true,
+            "category": "food"
+        },
+        {
+            "text": "Bananas are berries, but strawberries aren't.",
+            "isFact": true,
+            "category": "food"
+        },
+        {
+            "text": "The longest time between two twins being born is 87 days.",
+            "isFact": true,
+            "category": "science"
+        },
+        {
+            "text": "The world's oldest known living tree is over 5,000 years old.",
+            "isFact": true,
+            "category": "nature"
+        },
+        {
+            "text": "Cows have best friends and get stressed when they are separated.",
+            "isFact": true,
+            "category": "nature"
+        },
+        {
+            "text": "A day on Venus is longer than a year on Venus.",
+            "isFact": true,
+            "category": "science"
+        },
+        {
+            "text": "The Great Wall of China is not visible from space with the naked eye.",
+            "isFact": true,
+            "category": "geography"
+        },
+        {
+            "text": "Blue whales' hearts are so big that a human could swim through their arteries.",
+            "isFact": true,
+            "category": "nature"
+        },
+        {
+            "text": "Armadillos almost always give birth to identical quadruplets.",
+            "isFact": true,
+            "category": "nature"
+        },
+        {
+            "text": "The shortest commercial flight in the world is between the Scottish islands of Westray and Papa Westray, with a flight time of under two minutes.",
+            "isFact": true,
+            "category": "travel"
+        },
+        {
+            "text": "A bolt of lightning is five times hotter than the surface of the sun.",
+            "isFact": true,
+            "category": "science"
+        },
+        {
+            "text": "There are more possible iterations of a game of chess than there are atoms in the known universe.",
+            "isFact": true,
+            "category": "science"
+        },
+        {
+            "text": "Oxford University is older than the Aztec Empire.",
+            "isFact": true,
+            "category": "history"
+        },
+        {
+            "text": "Nintendo was founded in 1889 as a playing card company.",
+            "isFact": true,
+            "category": "entertainment"
+        },
+        {
+            "text": "The world's oldest hotel has been operating since 705 AD in Japan.",
+            "isFact": true,
+            "category": "travel"
+        },
+        {
+            "text": "Cats can't taste sweetness.",
+            "isFact": true,
+            "category": "nature"
+        },
+        {
+            "text": "Humans only use 10% of their brains.",
+            "isFact": false,
+            "category": "science",
+            "explanation": "This is a common misconception. Humans use all parts of their brain, though not necessarily all at the same time. Brain imaging has shown that even simple tasks activate multiple brain regions."
+        },
+        {
+            "text": "If you touch a baby bird, its mother will reject it because of your scent.",
+            "isFact": false,
+            "category": "nature",
+            "explanation": "Most birds have a poor sense of smell and won't abandon their young if touched by humans. However, it's still best to leave baby birds alone unless they're in immediate danger."
+        },
+        {
+            "text": "Goldfish only have a three-second memory.",
+            "isFact": false,
+            "category": "nature",
+            "explanation": "Goldfish can actually remember things for months, not just seconds. They can recognize people, be trained to respond to certain sounds, and learn relatively complex tasks."
+        },
+        {
+            "text": "Eating turkey makes you sleepy because of the tryptophan.",
+            "isFact": false,
+            "category": "food",
+            "explanation": "While turkey does contain tryptophan, it doesn't have any more than other common meats. Post-meal drowsiness is more likely due to the consumption of large amounts of carbohydrates and alcohol."
+        },
+        {
+            "text": "We have five distinct taste zones on our tongue.",
+            "isFact": false,
+            "category": "science",
+            "explanation": "The tongue map (showing sweet at the tip, bitter at the back, etc.) is a myth. All taste buds can detect all tastes, although there are slight differences in sensitivity across the tongue."
+        },
+        {
+            "text": "Hair and fingernails continue to grow after death.",
+            "isFact": false,
+            "category": "science",
+            "explanation": "After death, the body becomes dehydrated, causing skin to retract. This makes hair and nails appear longer, but they're not actually growing."
+        },
+        {
+            "text": "You need to drink eight glasses of water every day.",
+            "isFact": false,
+            "category": "health",
+            "explanation": "The amount of water needed varies based on activity level, climate, and individual health. Many foods also contain water. You should drink when thirsty, and your urine should be pale yellow."
+        },
+        {
+            "text": "Blood in your veins is blue until it's exposed to oxygen.",
+            "isFact": false,
+            "category": "science",
+            "explanation": "Blood is always red. Deoxygenated blood is darker red, but never blue. Veins appear blue because of how light penetrates and is absorbed by skin."
+        },
+        {
+            "text": "Bulls get angry when they see the color red.",
+            "isFact": false,
+            "category": "nature",
+            "explanation": "Bulls are colorblind to red. They charge at the movement of the cape, not its color. A matador's cape is traditionally red to hide bloodstains, not to provoke the bull."
+        },
+        {
+            "text": "You can see the Great Wall of China from the Moon.",
+            "isFact": false,
+            "category": "geography",
+            "explanation": "The Great Wall is not visible from the Moon with the naked eye. Even from low Earth orbit, it's difficult to see without magnification."
+        },
+        {
+            "text": "Cats always land on their feet.",
+            "isFact": false,
+            "category": "nature",
+            "explanation": "While cats have an incredible righting reflex that often allows them to land on their feet, they aren't always successful, especially from short falls when they don't have time to orient themselves."
+        },
+        {
+            "text": "Dogs sweat by salivating.",
+            "isFact": false,
+            "category": "nature",
+            "explanation": "Dogs primarily cool themselves by panting, not salivating. They do have sweat glands, but they're mainly located on the pads of their feet."
+        },
+        {
+            "text": "Fortune cookies originated in China.",
+            "isFact": false,
+            "category": "food",
+            "explanation": "Fortune cookies were actually invented in California by Japanese Americans. They became associated with Chinese restaurants after World War II."
+        },
+        {
+            "text": "Humans swallow eight spiders a year in their sleep.",
+            "isFact": false,
+            "category": "nature",
+            "explanation": "This myth has no scientific basis. Spiders typically avoid humans, and our breathing, heartbeat, and unconscious movements would deter them from approaching our mouths."
+        },
+        {
+            "text": "The Sahara is the world's largest desert.",
+            "isFact": false,
+            "category": "geography",
+            "explanation": "By definition, a desert is any area that receives very little precipitation. The Antarctic Desert is actually the largest desert in the world, covering about 5.5 million square miles."
+        },
+        {
+            "text": "Lightning never strikes the same place twice.",
+            "isFact": false,
+            "category": "science",
+            "explanation": "Lightning frequently strikes the same place multiple times. The Empire State Building is hit by lightning about 25 times per year."
+        },
+        {
+            "text": "Different parts of your tongue detect different tastes.",
+            "isFact": false,
+            "category": "science",
+            "explanation": "The tongue map (showing sweet at the tip, bitter at the back, etc.) is a myth. All taste buds can detect all tastes, although there are slight differences in sensitivity across the tongue."
+        },
+        {
+            "text": "Vikings wore horned helmets in battle.",
+            "isFact": false,
+            "category": "history",
+            "explanation": "There is no archaeological evidence that Vikings wore horned helmets in battle. This image comes from 19th-century artistic interpretations, particularly in opera."
+        },
+        {
+            "text": "Bats are blind.",
+            "isFact": false,
+            "category": "nature",
+            "explanation": "Bats are not blind. Most species have well-developed eyesight, though they primarily rely on echolocation for hunting and navigation in the dark."
+        },
+        {
+            "text": "A penny dropped from the Empire State Building could kill someone.",
+            "isFact": false,
+            "category": "science",
+            "explanation": "A penny dropped from a great height would reach terminal velocity (about 30-50 mph) due to air resistance, which isn't fast enough to be lethal. It might sting but wouldn't cause serious injury."
+        },
+        {
+            "text": "The Great Wall of China is the only human-made structure visible from space.",
+            "isFact": false,
+            "category": "geography",
+            "explanation": "Many human structures are visible from low Earth orbit, including highways, cities, and dams. The Great Wall is difficult to see even from low orbit without magnification."
+        },
+        {
+            "text": "The loudest sound ever recorded was the 1883 eruption of Krakatoa, which was heard 3,000 miles away.",
+            "isFact": true,
+            "category": "science"
+        },
+        {
+            "text": "Neutron stars are so dense that a teaspoon would weigh about 10 million tons.",
+            "isFact": true,
+            "category": "science"
+        },
+        {
+            "text": "Human DNA is 99.9% identical from person to person.",
+            "isFact": true,
+            "category": "science"
+        },
+        {
+            "text": "Quantum computers can theoretically perform calculations that would take traditional computers millions of years.",
+            "isFact": true,
+            "category": "technology"
+        },
+        {
+            "text": "Tardigrades can survive in space without protection.",
+            "isFact": true,
+            "category": "science"
+        },
+        {
+            "text": "Light from the Sun takes about 8 minutes and 20 seconds to reach Earth.",
+            "isFact": true,
+            "category": "science"
+        },
+        {
+            "text": "Our galaxy, the Milky Way, will collide with the Andromeda galaxy in about 4.5 billion years.",
+            "isFact": true,
+            "category": "science"
+        },
+        {
+            "text": "There are more atoms in a glass of water than glasses of water in all the oceans on Earth.",
+            "isFact": true,
+            "category": "science"
+        },
+        {
+            "text": "The human eyeball remains the same size from birth to death, while most body parts continue growing.",
+            "isFact": true,
+            "category": "science"
+        },
+        {
+            "text": "Water can exist in three states of matter simultaneously at a temperature of 0.01°C (32.02°F).",
+            "isFact": true,
+            "category": "science"
+        },
+        {
+            "text": "Stomach acid is strong enough to dissolve stainless steel.",
+            "isFact": true,
+            "category": "science"
+        },
+        {
+            "text": "An individual blood cell takes about 60 seconds to make a complete circuit of the body.",
+            "isFact": true,
+            "category": "science"
+        },
+        {
+            "text": "Babies have about 100 more bones than adults do.",
+            "isFact": true,
+            "category": "science"
+        },
+        {
+            "text": "The average human body contains enough iron to make a nail about 3 inches long.",
+            "isFact": true,
+            "category": "science"
+        },
+        {
+            "text": "The human brain processes images in about 13 milliseconds.",
+            "isFact": true,
+            "category": "science"
+        },
+        {
+            "text": "Nerve impulses can travel at speeds up to 268 miles per hour.",
+            "isFact": true,
+            "category": "science"
+        },
+        {
+            "text": "Humans shed about 600,000 particles of skin every hour.",
+            "isFact": true,
+            "category": "science"
+        },
+        {
+            "text": "The Mariana Trench is deeper than Mount Everest is tall.",
+            "isFact": true,
+            "category": "geography"
+        },
+        {
+            "text": "There are more stars in the universe than grains of sand on all the beaches on Earth.",
+            "isFact": true,
+            "category": "science"
+        },
+        {
+            "text": "Black holes emit radiation, known as Hawking radiation.",
+            "isFact": true,
+            "category": "science"
+        },
+        {
+            "text": "10% of all human beings ever born are alive right now.",
+            "isFact": true,
+            "category": "science"
+        },
+        {
+            "text": "Flamingos are naturally white—their diet of brine shrimp and algae turns them pink.",
+            "isFact": true,
+            "category": "nature"
+        },
+        {
+            "text": "The only letter that doesn't appear in the periodic table is the letter J.",
+            "isFact": true,
+            "category": "science"
+        },
+        {
+            "text": "Sharks have existed on Earth longer than trees.",
+            "isFact": true,
+            "category": "nature"
+        },
+        {
+            "text": "Human teeth are just as strong as shark teeth.",
+            "isFact": true,
+            "category": "science"
+        },
+        {
+            "text": "The human nose can detect over 1 trillion different scents.",
+            "isFact": true,
+            "category": "science"
+        },
+        {
+            "text": "A cockroach can live for several weeks without its head.",
+            "isFact": true,
+            "category": "nature"
+        },
+        {
+            "text": "A flea can jump 150 times its own height.",
+            "isFact": true,
+            "category": "nature"
+        },
+        {
+            "text": "Crows can recognize human faces and hold grudges against those who threaten them.",
+            "isFact": true,
+            "category": "nature"
+        },
+        {
+            "text": "The mantis shrimp can see polarized light and has 16 color receptors, compared to humans' 3.",
+            "isFact": true,
+            "category": "nature"
+        },
+        {
+            "text": "The average adult human body contains approximately 100,000 miles of blood vessels.",
+            "isFact": true,
+            "category": "science"
+        },
+        {
+            "text": "An ostrich's eye is bigger than its brain.",
+            "isFact": true,
+            "category": "nature"
+        },
+        {
+            "text": "The human body contains enough fat to make seven bars of soap.",
+            "isFact": true,
+            "category": "science"
+        },
+        {
+            "text": "In terms of DNA, humans are more closely related to bananas than they are to many other animals.",
+            "isFact": false,
+            "category": "science",
+            "explanation": "Humans share about 50-60% of their DNA with bananas, but they share much more with animals, especially other primates. For example, humans share about 98.8% of their DNA with chimpanzees."
+        },
+        {
+            "text": "Cleopatra lived closer in time to the building of the first Pizza Hut than to the building of the pyramids.",
+            "isFact": true,
+            "category": "history"
+        },
+        {
+            "text": "The first person convicted of speeding was going 8 mph in a 2 mph zone in 1896.",
+            "isFact": true,
+            "category": "history"
+        },
+        {
+            "text": "During WWII, the US military designed a bomb that used bats as carriers.",
+            "isFact": true,
+            "category": "history"
+        },
+        {
+            "text": "The ancient Romans used urine as mouthwash.",
+            "isFact": true,
+            "category": "history"
+        },
+        {
+            "text": "A war was once fought over a wooden bucket.",
+            "isFact": true,
+            "category": "history"
+        },
+        {
+            "text": "Ancient Egyptian pharaohs were sometimes buried with their favorite servants, who were killed to serve in the afterlife.",
+            "isFact": true,
+            "category": "history"
+        },
+        {
+            "text": "Harvard University was founded before calculus was invented.",
+            "isFact": true,
+            "category": "history"
+        },
+        {
+            "text": "The Aztecs used chocolate as currency.",
+            "isFact": true,
+            "category": "history"
+        },
+        {
+            "text": "In ancient Rome, it was considered a sign of leadership to be born with a crooked nose.",
+            "isFact": true,
+            "category": "history"
+        },
+        {
+            "text": "Women couldn't obtain credit cards in their own name until 1974 in the USA.",
+            "isFact": true,
+            "category": "history"
+        },
+        {
+            "text": "In ancient Egypt, servants were smeared with honey to attract flies away from pharaohs.",
+            "isFact": true,
+            "category": "history"
+        },
+        {
+            "text": "Stalin erased people from photographs after they fell out of favor with him.",
+            "isFact": true,
+            "category": "history"
+        },
+        {
+            "text": "The Leaning Tower of Pisa was already leaning when it was completed.",
+            "isFact": true,
+            "category": "history"
+        },
+        {
+            "text": "A 27-year-old physicist named Isidor Isaac Rabi once almost discovered nuclear magnetic resonance but went to lunch instead.",
+            "isFact": true,
+            "category": "history"
+        },
+        {
+            "text": "During the Cold War, the United States considered dropping an atomic bomb on the moon to show military superiority.",
+            "isFact": true,
+            "category": "history"
+        },
+        {
+            "text": "Before the 19th century, dentures were commonly made from the teeth of dead soldiers.",
+            "isFact": true,
+            "category": "history"
+        },
+        {
+            "text": "Thomas Edison didn't invent the light bulb but improved upon existing designs.",
+            "isFact": true,
+            "category": "history"
+        },
+        {
+            "text": "Coca-Cola originally contained cocaine.",
+            "isFact": true,
+            "category": "history"
+        },
+        {
+            "text": "In the early Olympic games, athletes competed completely naked.",
+            "isFact": true,
+            "category": "history"
+        },
+        {
+            "text": "Ketchup was sold as medicine in the 1830s.",
+            "isFact": true,
+            "category": "history"
+        },
+        {
+            "text": "Before alarm clocks existed, there were professional 'knockers-up' who would tap on clients' windows with long sticks to wake them.",
+            "isFact": true,
+            "category": "history"
+        },
+        {
+            "text": "In Ancient Greece, throwing an apple at someone was considered a marriage proposal.",
+            "isFact": true,
+            "category": "history"
+        },
+        {
+            "text": "The inventor of the Pringles can was buried in one at his request.",
+            "isFact": true,
+            "category": "history"
+        },
+        {
+            "text": "President William Henry Harrison served the shortest term, dying just 31 days after taking office.",
+            "isFact": true,
+            "category": "history"
+        },
+        {
+            "text": "In medieval Europe, animals could be put on trial and sentenced for crimes.",
+            "isFact": true,
+            "category": "history"
+        },
+        {
+            "text": "Carrots were originally purple before being selectively bred to be orange.",
+            "isFact": true,
+            "category": "food"
+        },
+        {
+            "text": "Apples float in water because they are 25% air.",
+            "isFact": true,
+            "category": "food"
+        },
+        {
+            "text": "The fear that your beer is empty is called 'cenosillicaphobia'.",
+            "isFact": true,
+            "category": "food"
+        },
+        {
+            "text": "In the Middle Ages, bread was often used as plates, called 'trenchers'.",
+            "isFact": true,
+            "category": "food"
+        },
+        {
+            "text": "White chocolate isn't technically chocolate because it contains no cocoa solids.",
+            "isFact": true,
+            "category": "food"
+        },
+        {
+            "text": "Vanilla flavoring comes from a beaver's anal glands.",
+            "isFact": false,
+            "category": "food",
+            "explanation": "While castoreum, derived from beaver anal glands, can be used as a vanilla flavoring, it's extremely rare in food products due to high cost. Most vanilla flavoring comes from vanilla beans or is artificially synthesized."
+        },
+        {
+            "text": "A chicken nugget left in McDonald's stays the same for years due to preservatives.",
+            "isFact": false,
+            "category": "food",
+            "explanation": "Food drying out is a form of natural preservation. McDonald's nuggets eventually decompose like any other food, though dehydration might make the process slower than with higher-moisture foods."
+        },
+        {
+            "text": "Alaska has the easternmost and westernmost points in the United States.",
+            "isFact": true,
+            "category": "geography"
+        },
+        {
+            "text": "Point Nemo in the Pacific Ocean is so remote that the closest humans are often astronauts in space.",
+            "isFact": true,
+            "category": "geography"
+        },
+        {
+            "text": "Maine is the closest U.S. state to Africa.",
+            "isFact": true,
+            "category": "geography"
+        },
+        {
+            "text": "Russia has 11 time zones.",
+            "isFact": true,
+            "category": "geography"
+        },
+        {
+            "text": "The entirety of Canada has a smaller population than Tokyo's metropolitan area.",
+            "isFact": false,
+            "category": "geography",
+            "explanation": "Canada's population (about 38 million) is actually larger than Tokyo's metropolitan area (about 37 million)."
+        },
+        {
+            "text": "There's a mountain in Australia called Mount Disappointment because explorers found the view from the top disappointing.",
+            "isFact": true,
+            "category": "geography"
+        },
+        {
+            "text": "The Olympic flag's five rings represent the five continents from which athletes compete.",
+            "isFact": true,
+            "category": "sports"
+        },
+        {
+            "text": "The shortest professional baseball player was 3'7\" (109 cm) tall.",
+            "isFact": true,
+            "category": "sports"
+        },
+        {
+            "text": "Michael Jordan was initially cut from his high school basketball team.",
+            "isFact": true,
+            "category": "sports"
+        },
+        {
+            "text": "The original Star Wars trilogy contains over 30 minutes of lightsaber duels.",
+            "isFact": false,
+            "category": "entertainment",
+            "explanation": "The original Star Wars trilogy actually contains less than 10 minutes of lightsaber combat scenes in total."
+        },
+        {
+            "text": "Michael Jackson owned the rights to the South Park movie.",
+            "isFact": false,
+            "category": "entertainment",
+            "explanation": "Michael Jackson was not involved with the production or ownership of South Park. The movie rights were owned by Paramount Pictures and the show's creators, Trey Parker and Matt Stone."
+        },
+        {
+            "text": "Walt Disney is cryogenically frozen.",
+            "isFact": false,
+            "category": "entertainment",
+            "explanation": "Walt Disney was not cryogenically frozen after his death. He was cremated, and his ashes were interred at Forest Lawn Memorial Park in Glendale, California."
+        },
+        {
+            "text": "Eating celery burns more calories than you gain from consuming it.",
+            "isFact": false,
+            "category": "food",
+            "explanation": "While celery is low in calories (about 10 calories per stalk), the body uses only about 2 calories to digest it. It's not a 'negative calorie' food as commonly claimed."
+        },
+        {
+            "text": "Chameleons change color to match their surroundings as camouflage.",
+            "isFact": false,
+            "category": "nature",
+            "explanation": "Chameleons primarily change color to regulate body temperature and communicate with other chameleons, particularly during social interactions. While this can have a camouflage effect, matching their surroundings is not the main purpose."
+        },
+        {
+            "text": "Humans evolved from chimpanzees.",
+            "isFact": false,
+            "category": "science",
+            "explanation": "Humans did not evolve from chimpanzees. Humans and chimps evolved from a common ancestor that lived approximately 6-7 million years ago. We are evolutionary cousins, not descendants."
+        },
+        {
+            "text": "The moon has a dark side that never receives sunlight.",
+            "isFact": false,
+            "category": "science",
+            "explanation": "The moon does not have a permanently dark side. It has a 'far side' that we never see from Earth due to tidal locking, but this side receives just as much sunlight as the side facing Earth."
+        },
+        {
+            "text": "Touching a baby bird will cause its mother to reject it.",
+            "isFact": false,
+            "category": "nature",
+            "explanation": "Most birds have a poor sense of smell and won't abandon their young if touched by humans. However, it's still best to leave baby birds alone unless they're in immediate danger."
+        },
+        {
+            "text": "You should urinate on a jellyfish sting to relieve the pain.",
+            "isFact": false,
+            "category": "health",
+            "explanation": "Urinating on a jellyfish sting can actually make it worse by triggering unfired stinging cells. The best first aid is to rinse with seawater and remove tentacles carefully."
+        },
+        {
+            "text": "Your blood turns blue when it's deoxygenated inside your veins.",
+            "isFact": false,
+            "category": "health",
+            "explanation": "Blood is always red. Deoxygenated blood is darker red, not blue. Veins appear blue because of how light penetrates and is absorbed by the skin."
+        },
+        {
+            "text": "Cracking your knuckles causes arthritis.",
+            "isFact": false,
+            "category": "health",
+            "explanation": "Studies have found no connection between knuckle cracking and arthritis. The sound comes from gas bubbles bursting in the synovial fluid of joints."
+        },
+        {
+            "text": "Einstein failed math as a student.",
+            "isFact": false,
+            "category": "history",
+            "explanation": "Einstein was actually an excellent math student from an early age. He mastered differential and integral calculus by age 15."
+        },
+        {
+            "text": "The Declaration of Independence was signed on July 4, 1776.",
+            "isFact": false,
+            "category": "history",
+            "explanation": "The Declaration of Independence was adopted on July 4, 1776, but most delegates signed it on August 2, 1776, and some signed even later."
+        },
+        {
+            "text": "Mount Everest is the tallest mountain in the world.",
+            "isFact": false,
+            "category": "geography",
+            "explanation": "Mount Everest is the highest mountain above sea level, but Mauna Kea in Hawaii is taller from base to peak. Additionally, Mount Chimborazo in Ecuador is the farthest point from Earth's center due to Earth's equatorial bulge."
+        },
+        {
+            "text": "Napoleon Bonaparte was extremely short.",
+            "isFact": false,
+            "category": "history",
+            "explanation": "Napoleon was actually about 5'7\" (170 cm), which was average or slightly above average height for men in his time. The myth stems from British propaganda and confusion between French and English measuring units."
+        },
+        {
+            "text": "A human and a banana share 50% of their DNA.",
+            "isFact": true,
+            "category": "science"
+        },
+        {
+            "text": "Wombats produce cube-shaped feces.",
+            "isFact": true,
+            "category": "nature"
+        },
+        {
+            "text": "The shortest commercial flight in the world lasts only 1.7 minutes between Westray and Papa Westray in Scotland's Orkney Islands.",
+            "isFact": true,
+            "category": "travel"
+        },
+        {
+            "text": "A group of pandas is called an embarrassment.",
+            "isFact": true,
+            "category": "nature"
+        },
+        {
+            "text": "The founder of Match.com lost his girlfriend to a man she met on Match.com.",
+            "isFact": true,
+            "category": "technology"
+        },
+        {
+            "text": "A strawberry is not a berry, but a banana is.",
+            "isFact": true,
+            "category": "food"
+        },
+        {
+            "text": "A rhinoceros' horn is made of hair.",
+            "isFact": true,
+            "category": "nature"
+        },
+        {
+            "text": "The inventor of the frisbee was turned into a frisbee after death.",
+            "isFact": true,
+            "category": "history"
+        },
+        {
+            "text": "The first oranges weren't orange—they were green.",
+            "isFact": true,
+            "category": "food"
+        },
+        {
+            "text": "Hippo milk is pink.",
+            "isFact": true,
+            "category": "nature"
+        },
+        {
+            "text": "The word 'nerd' was first coined by Dr. Seuss in his book 'If I Ran the Zoo'.",
+            "isFact": true,
+            "category": "literature"
+        },
+        {
+            "text": "Some cats are allergic to humans.",
+            "isFact": true,
+            "category": "nature"
+        },
+        {
+            "text": "The longest hiccuping spell lasted 68 years.",
+            "isFact": true,
+            "category": "health"
+        },
+        {
+            "text": "A day on Mercury is longer than a year on Mercury.",
+            "isFact": true,
+            "category": "science"
+        },
+        {
+            "text": "You can hear a blue whale's heartbeat from two miles away.",
+            "isFact": true,
+            "category": "nature"
+        },
+        {
+            "text": "Nintendo was founded in 1889 as a playing card company.",
+            "isFact": true,
+            "category": "entertainment"
+        },
+        {
+            "text": "There are more possible iterations of a game of chess than there are atoms in the observable universe.",
+            "isFact": true,
+            "category": "science"
+        },
+        {
+            "text": "Astronauts can't burp in space.",
+            "isFact": true,
+            "category": "science"
+        },
+        {
+            "text": "Peanuts aren't nuts—they're legumes.",
+            "isFact": true,
+            "category": "food"
+        },
+        {
+            "text": "Humans share 50% of their DNA with bananas.",
+            "isFact": true,
+            "category": "science"
+        },
+        {
+            "text": "Marie Curie's notebooks are still radioactive.",
+            "isFact": true,
+            "category": "science"
+        },
+        {
+            "text": "Baby elephants suck their trunks for comfort, similar to how human babies suck their thumbs.",
+            "isFact": true,
+            "category": "nature"
+        },
+        {
+            "text": "There are more trees on Earth than stars in the Milky Way galaxy.",
+            "isFact": true,
+            "category": "nature"
+        },
+        {
+            "text": "There are more ways to arrange a deck of cards than there are atoms on Earth.",
+            "isFact": true,
+            "category": "mathematics"
+        },
+        {
+            "text": "The Hawaiian alphabet only has 12 letters.",
+            "isFact": false,
+            "category": "language",
+            "explanation": "The Hawaiian alphabet has 13 letters: 5 vowels (a, e, i, o, u) and 8 consonants (h, k, l, m, n, p, w, ʻ). The ʻokina (ʻ) is considered a consonant and represents a glottal stop."
+        },
+        {
+            "text": "Bats always turn left when exiting a cave.",
+            "isFact": false,
+            "category": "nature",
+            "explanation": "There is no scientific evidence supporting the claim that bats consistently turn left when leaving caves. Their flight patterns are determined by echolocation, air currents, and the physical structure of the cave exit."
+        },
+        {
+            "text": "The Eiffel Tower grows taller in summer.",
+            "isFact": true,
+            "category": "science"
+        },
+        {
+            "text": "Hot water freezes faster than cold water.",
+            "isFact": true,
+            "category": "science"
+        },
+        {
+            "text": "Penguins have an organ above their eyes that converts seawater to freshwater.",
+            "isFact": true,
+            "category": "nature"
+        },
+        {
+            "text": "The sound of a whip cracking is actually a small sonic boom.",
+            "isFact": true,
+            "category": "science"
+        },
+        {
+            "text": "A day on Venus is longer than a year on Venus.",
+            "isFact": true,
+            "category": "science"
+        },
+        {
+            "text": "The lighter was invented before the match.",
+            "isFact": true,
+            "category": "history"
+        },
+        {
+            "text": "A single cloud can weigh more than a million pounds.",
+            "isFact": true,
+            "category": "science"
+        },
+        {
+            "text": "Reindeer eyes turn blue in winter to help them see better in the dark.",
+            "isFact": true,
+            "category": "nature"
+        },
+        {
+            "text": "Butterflies taste with their feet.",
+            "isFact": true,
+            "category": "nature"
+        },
+        {
+            "text": "Polar bears have black skin under their white fur.",
+            "isFact": true,
+            "category": "nature"
+        },
+        {
+            "text": "The first alarm clock could only ring at 4 a.m.",
+            "isFact": true,
+            "category": "history"
+        },
+        {
+            "text": "Ketchup was sold as medicine in the 1830s.",
+            "isFact": true,
+            "category": "history"
+        },
+        {
+            "text": "The King of Hearts is the only king in a standard deck of cards without a mustache.",
+            "isFact": true,
+            "category": "entertainment"
+        },
+        {
+            "text": "Dolphins sleep with one eye open.",
+            "isFact": true,
+            "category": "nature"
+        },
+        {
+            "text": "Turtles can breathe through their butts.",
+            "isFact": true,
+            "category": "nature"
+        },
+        {
+            "text": "Cows have best friends and get stressed when they're separated.",
+            "isFact": true,
+            "category": "nature"
+        },
+        {
+            "text": "The shortest war in history was between Britain and Zanzibar in 1896, lasting only 38 minutes.",
+            "isFact": true,
+            "category": "history"
+        },
+        {
+            "text": "Armadillos are bullet-proof.",
+            "isFact": false,
+            "category": "nature",
+            "explanation": "While armadillos have hard shells, they are not bulletproof. Their shells can deflect or ricochet some low-velocity bullets, which has led to this misconception, but they can certainly be penetrated by most firearms."
+        },
+        {
+            "text": "The chainsaw was originally invented for childbirth.",
+            "isFact": true,
+            "category": "history"
+        },
+        {
+            "text": "Dragonflies have six legs but can't walk.",
+            "isFact": true,
+            "category": "nature"
+        },
+        {
+            "text": "Octopuses have three hearts.",
+            "isFact": true,
+            "category": "nature"
+        },
+        {
+            "text": "The first computer bug was an actual bug.",
+            "isFact": true,
+            "category": "technology"
+        },
+        {
+            "text": "A group of unicorns is called a blessing.",
+            "isFact": true,
+            "category": "language"
+        },
+        {
+            "text": "Australia once lost a war against emus.",
+            "isFact": true,
+            "category": "history"
+        },
+        {
+            "text": "There are more than 10 times as many bacteria in your body as human cells.",
+            "isFact": true,
+            "category": "science"
+        },
+        {
+            "text": "The average person will spend six months of their life waiting at red lights.",
+            "isFact": true,
+            "category": "lifestyle"
+        },
+        {
+            "text": "The world's oldest known living tree is over 5,000 years old.",
+            "isFact": true,
+            "category": "nature"
+        },
+        {
+            "text": "Oxford University is older than the Aztec Empire.",
+            "isFact": true,
+            "category": "history"
+        },
+        {
+            "text": "Honey never spoils. Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly good to eat.",
+            "isFact": true,
+            "category": "food"
+        },
+        {
+            "text": "The shortest commercial flight in the world is between the Scottish islands of Westray and Papa Westray, with a flight time of under two minutes.",
+            "isFact": true,
+            "category": "travel"
+        },
+        {
+            "text": "Scotland has 421 words for snow.",
+            "isFact": false,
+            "category": "language",
+            "explanation": "This is an exaggeration of a linguistic study that suggested the Scots language (not Scottish Gaelic) has about 421 words and expressions relating to snow, including variations, phrases, and words for specific types of snowfall. This is not the same as having 421 distinct words for snow itself."
+        },
+        {
+            "text": "A bolt of lightning is five times hotter than the surface of the sun.",
+            "isFact": true,
+            "category": "science"
+        },
+        {
+            "text": "Russia has a larger surface area than Pluto.",
+            "isFact": true,
+            "category": "geography"
+        },
+        {
+            "text": "The Great Wall of China is not visible from space with the naked eye.",
+            "isFact": true,
+            "category": "geography"
+        },
+        {
+            "text": "It rains diamonds on Saturn and Jupiter.",
+            "isFact": true,
+            "category": "science"
+        },
+        {
+            "text": "A jiffy is an actual unit of time: 1/100th of a second.",
+            "isFact": true,
+            "category": "science"
+        },
+        {
+            "text": "A day on Mercury lasts longer than a year on Mercury.",
+            "isFact": true,
+            "category": "science"
+        },
+        {
+            "text": "The filling in Kit Kat bars is made from crushed Kit Kats.",
+            "isFact": true,
+            "category": "food"
+        },
+        {
+            "text": "Birds don't urinate.",
+            "isFact": true,
+            "category": "nature"
+        },
+        {
+            "text": "The total weight of all the ants on Earth is greater than the total weight of all the humans.",
+            "isFact": true,
+            "category": "nature"
+        },
+        {
+            "text": "There are more lifeforms living on your skin than there are people on the planet.",
+            "isFact": true,
+            "category": "science"
+        },
+        {
+            "text": "The oldest piece of chewing gum is 9,000 years old.",
+            "isFact": true,
+            "category": "history"
+        },
+        {
+            "text": "Your chances of getting killed by a vending machine are higher than your chances of getting killed by a shark.",
+            "isFact": true,
+            "category": "statistics"
+        },
+        {
+            "text": "Cats can't taste sweetness.",
+            "isFact": true,
+            "category": "nature"
+        },
+        {
+            "text": "Babies are born without kneecaps.",
+            "isFact": false,
+            "category": "science",
+            "explanation": "Babies are born with kneecaps, but they're composed of cartilage rather than bone. The ossification (hardening into bone) of kneecaps typically occurs between 2 and 6 years of age."
+        },
+        {
+            "text": "When you get a kidney transplant, surgeons usually leave your original kidneys in your body.",
+            "isFact": true,
+            "category": "health"
+        },
+        {
+            "text": "Antarctica is covered by a very thick layer of ice but has a desert climate.",
+            "isFact": true,
+            "category": "geography"
+        },
+        {
+            "text": "The longest wedding veil was the same length as 63.5 football fields.",
+            "isFact": true,
+            "category": "fashion"
+        },
+        {
+            "text": "The word 'strengths' is the longest word in the English language with only one vowel.",
+            "isFact": true,
+            "category": "language"
+        },
+        {
+            "text": "At birth, a baby's brain is almost fully grown.",
+            "isFact": false,
+            "category": "science",
+            "explanation": "A newborn's brain is only about 25% of its adult size. The brain continues to grow rapidly during the first few years of life and doesn't reach its full size until early adulthood."
+        },
+        {
+            "text": "No piece of square dry paper can be folded in half more than 7 times.",
+            "isFact": false,
+            "category": "science",
+            "explanation": "While difficult, the 7-fold limit is a myth. The current record for folding paper in half is 12 times, achieved by Britney Gallivan in 2002 using a specially prepared piece of toilet paper."
+        },
+        {
+            "text": "Greenland sharks can live for over 500 years.",
+            "isFact": true,
+            "category": "nature"
+        },
+        {
+            "text": "A group of otters is called a romp.",
+            "isFact": true,
+            "category": "language"
+        },
+        {
+            "text": "Snails can sleep for three years at a time.",
+            "isFact": true,
+            "category": "nature"
+        },
+        {
+            "text": "Like fingerprints, everyone's tongue print is different.",
+            "isFact": true,
+            "category": "science"
+        },
+        {
+            "text": "Octopuses have three hearts and nine brains.",
+            "isFact": false,
+            "category": "nature",
+            "explanation": "Octopuses have three hearts, but they have one central brain and eight smaller nerve clusters in their arms (not nine separate brains). These nerve clusters allow their arms to operate somewhat independently, but they are not true brains."
+        },
+        {
+            "text": "The average person falls asleep in seven minutes.",
+            "isFact": true,
+            "category": "health"
+        },
+        {
+            "text": "There are 293 ways to make change for a dollar.",
+            "isFact": true,
+            "category": "mathematics"
+        },
+        {
+            "text": "The name of all continents end with the same letter they start with.",
+            "isFact": true,
+            "category": "geography"
+        },
+        {
+            "text": "There are more stars in the universe than grains of sand on all the beaches on Earth.",
+            "isFact": true,
+            "category": "science"
+        },
+        {
+            "text": "Pineapples grow on trees.",
+            "isFact": false,
+            "category": "nature",
+            "explanation": "Pineapples don't grow on trees but on plants close to the ground. Each pineapple plant produces just one pineapple fruit at a time."
+        },
+        {
+            "text": "A sneeze can travel at over 100 miles per hour.",
+            "isFact": true,
+            "category": "science"
+        },
+        {
+            "text": "Fingernails grow faster on your dominant hand.",
+            "isFact": true,
+            "category": "science"
+        },
+        {
+            "text": "Humans are the only animals that blush.",
+            "isFact": true,
+            "category": "science"
+        },
+        {
+            "text": "The flamingo can only eat when its head is upside down.",
+            "isFact": true,
+            "category": "nature"
+        },
+        {
+            "text": "A cockroach can live for several weeks without its head.",
+            "isFact": true,
+            "category": "nature"
+        },
+        {
+            "text": "Astronauts can't cry in space because tears don't fall.",
+            "isFact": true,
+            "category": "science"
+        },
+        {
+            "text": "The Hawaiian pizza was invented in Canada.",
+            "isFact": true,
+            "category": "food"
+        },
+        {
+            "text": "Camels have three eyelids.",
+            "isFact": true,
+            "category": "nature"
+        },
+        {
+            "text": "The shortest war in history lasted 38 minutes.",
+            "isFact": true,
+            "category": "history"
+        },
+        {
+            "text": "The Canary Islands are named after dogs, not birds.",
+            "isFact": true,
+            "category": "geography"
+        },
+        {
+            "text": "Hippopotamus milk is pink.",
+            "isFact": true,
+            "category": "nature"
+        },
+        {
+            "text": "The coldest temperature recorded on Earth was in Antarctica: -128.6°F (-89.2°C).",
+            "isFact": true,
+            "category": "science"
+        },
+        {
+            "text": "Ostriches stick their heads in the sand when they sense danger.",
+            "isFact": false,
+            "category": "nature",
+            "explanation": "Ostriches don't bury their heads in the sand when threatened. They either run away at speeds up to 45 mph or lay flat on the ground to appear less visible if they can't escape."
+        },
+        {
+            "text": "Bananas grow on trees.",
+            "isFact": false,
+            "category": "nature",
+            "explanation": "Bananas don't grow on trees. What appears to be a trunk is actually a pseudostem made of tightly packed leaves. Botanically, banana plants are giant herbs related to lilies and orchids."
+        },
+        {
+            "text": "A group of crows is called a murder.",
+            "isFact": true,
+            "category": "language"
+        },
+        {
+            "text": "Elephants are the only mammals that can't jump.",
+            "isFact": false,
+            "category": "nature",
+            "explanation": "Elephants aren't the only mammals that can't jump. Others include sloths, hippos, rhinos, and adult white rhinoceroses."
+        },
+        {
+            "text": "The dot over the letter 'i' is called a tittle.",
+            "isFact": true,
+            "category": "language"
+        },
+        {
+            "text": "A shrimp's heart is in its head.",
+            "isFact": true,
+            "category": "nature"
+        },
+        {
+            "text": "A flock of flamingos is called a flamboyance.",
+            "isFact": true,
+            "category": "language"
+        },
+        {
+            "text": "The longest place name in the world has 85 letters.",
+            "isFact": true,
+            "category": "geography"
+        },
+        {
+            "text": "Koalas sleep for up to 22 hours a day.",
+            "isFact": true,
+            "category": "nature"
+        },
+        {
+            "text": "A day on Venus is longer than a year on Venus.",
+            "isFact": true,
+            "category": "science"
+        },
+        {
+            "text": "A group of pugs is called a grumble.",
+            "isFact": true,
+            "category": "language"
+        },
+        {
+            "text": "The world's oldest known living tree is over 5,000 years old.",
+            "isFact": true,
+            "category": "nature"
+        },
+        {
+            "text": "Bananas grow pointing upward, not downward.",
+            "isFact": true,
+            "category": "nature"
+        },
+        {
+            "text": "Each arm of a starfish has its own 'brain'.",
+            "isFact": true,
+            "category": "nature"
+        },
+        {
+            "text": "The longest time between two twins being born is 87 days.",
+            "isFact": true,
+            "category": "science"
+        },
+        {
+            "text": "Female kangaroos have three vaginas.",
+            "isFact": true,
+            "category": "nature"
+        },
+        {
+            "text": "Ducks' quacks don't echo.",
+            "isFact": false,
+            "category": "science",
+            "explanation": "Duck quacks do echo, just like any other sound. This myth has been repeatedly debunked by acoustic scientists who have tested it in echo chambers."
+        },
+        {
+            "text": "A snail can sleep for three years.",
+            "isFact": true,
+            "category": "nature"
+        },
+        {
+            "text": "Blue whales' hearts are so big that a human could swim through their arteries.",
+            "isFact": true,
+            "category": "nature"
+        },
+        {
+            "text": "Cows have four stomachs.",
+            "isFact": false,
+            "category": "nature",
+            "explanation": "Cows have one stomach with four compartments: the rumen, reticulum, omasum, and abomasum. These compartments allow them to digest plant material that humans cannot."
+        },
+        {
+            "text": "A day on Mercury lasts longer than a year on Mercury.",
+            "isFact": true,
+            "category": "science"
+        },
+        {
+            "text": "Elephants are the only animals that can't jump.",
+            "isFact": false,
+            "category": "nature",
+            "explanation": "Elephants aren't the only animals that can't jump. Others include sloths, hippos, and rhinoceroses."
+        },
+        {
+            "text": "The Moon is moving away from Earth at a rate of 1.5 inches per year.",
+            "isFact": true,
+            "category": "science"
+        },
+        {
+            "text": "A blue whale's tongue weighs as much as an elephant.",
+            "isFact": true,
+            "category": "nature"
+        },
+        {
+            "text": "There are more possible iterations of a game of chess than there are atoms in the observable universe.",
+            "isFact": true,
+            "category": "science"
+        },
+        {
+            "text": "The fingerprints of koalas are so similar to humans that they have been confused at crime scenes.",
+            "isFact": true,
+            "category": "nature"
+        },
+        {
+            "text": "Strawberries are the only fruit with seeds on the outside.",
+            "isFact": true,
+            "category": "food"
+        },
+        {
+            "text": "The Great Wall of China is visible from the Moon with the naked eye.",
+            "isFact": false,
+            "category": "geography",
+            "explanation": "The Great Wall of China is not visible from the Moon with the naked eye. It is difficult to see even from low Earth orbit without magnification."
+        },
+        {
+            "text": "The woolly mammoth was still alive when the Great Pyramid of Giza was being built.",
+            "isFact": true,
+            "category": "history"
+        },
+        {
+            "text": "Armadillos almost always give birth to identical quadruplets.",
+            "isFact": true,
+            "category": "nature"
+        },
+        {
+            "text": "There are more trees on Earth than stars in the Milky Way galaxy.",
+            "isFact": true,
+            "category": "science"
+        },
+        {
+            "text": "A strawberry is not a berry, but a banana is.",
+            "isFact": true,
+            "category": "food"
+        },
+        {
+            "text": "Antarctica is the largest desert in the world.",
+            "isFact": true,
+            "category": "geography"
+        },
+        {
+            "text": "You can't breathe and swallow at the same time.",
+            "isFact": true,
+            "category": "science"
+        },
+        {
+            "text": "The strongest muscle in the human body, relative to size, is the tongue.",
+            "isFact": true,
+            "category": "science"
+        },
+        {
+            "text": "The world's largest desert is in Antarctica.",
+            "isFact": true,
+            "category": "geography"
+        },
+        {
+            "text": "Wombats produce cube-shaped poop.",
+            "isFact": true,
+            "category": "nature"
+        },
+        {
+            "text": "Humans lose over 80% of body heat through the head.",
+            "isFact": false,
+            "category": "science",
+            "explanation": "Heat loss through the head is proportional to its surface area, which is about 10% of the body. You'll lose about the same amount of heat through any uncovered body part of similar size."
+        },
+        {
+            "text": "You're more likely to get struck by lightning than to win the lottery.",
+            "isFact": true,
+            "category": "statistics"
+        },
+        {
+            "text": "Mount Everest is the tallest mountain in the world when measured from sea level.",
+            "isFact": true,
+            "category": "geography"
+        },
+        {
+            "text": "A human could swim through a blue whale's veins.",
+            "isFact": true,
+            "category": "nature"
+        },
+        {
+            "text": "Hot water freezes faster than cold water under certain conditions.",
+            "isFact": true,
+            "category": "science"
+        },
+        {
+            "text": "Killer whales (orcas) are actually a type of dolphin, not whale.",
+            "isFact": true,
+            "category": "nature"
+        },
+        {
+            "text": "Humans and bananas share approximately 60% of the same DNA.",
+            "isFact": true,
+            "category": "science"
+        },
+        {
+            "text": "A cockroach can live for a week without its head.",
+            "isFact": true,
+            "category": "nature"
+        },
+        {
+            "text": "Most lipstick contains fish scales.",
+            "isFact": true,
+            "category": "cosmetics"
+        },
+        {
+            "text": "The shortest commercial flight in the world lasts only 1.7 minutes.",
+            "isFact": true,
+            "category": "travel"
+        },
+        {
+            "text": "If you fold a piece of paper 42 times, it would reach the moon.",
+            "isFact": true,
+            "category": "mathematics"
+        },
+        {
+            "text": "Cats spend 70% of their lives sleeping.",
+            "isFact": true,
+            "category": "nature"
+        },
+        {
+            "text": "Alaska has 3 million lakes larger than 20 acres.",
+            "isFact": true,
+            "category": "geography"
+        },
+        {
+            "text": "The average person walks the equivalent of three times around the world in a lifetime.",
+            "isFact": true,
+            "category": "health"
+        },
+        {
+            "text": "Almonds are members of the peach family.",
+            "isFact": true,
+            "category": "food"
+        },
+        {
+            "text": "Grapes explode when you put them in the microwave.",
+            "isFact": true,
+            "category": "food"
+        },
+        {
+            "text": "A group of hedgehogs is called a prickle.",
+            "isFact": true,
+            "category": "language"
+        },
+        {
+            "text": "The average office desk has 400 times more bacteria than a toilet.",
+            "isFact": true,
+            "category": "health"
+        },
+        {
+            "text": "If Pinocchio said 'My nose will grow now', it would create a paradox.",
+            "isFact": true,
+            "category": "philosophy"
+        },
+        {
+            "text": "Butterflies taste with their feet.",
+            "isFact": true,
+            "category": "nature"
+        },
+        {
+            "text": "The human brain is the fattest organ in the body, being composed of about 60% fat.",
+            "isFact": true,
+            "category": "science"
+        },
+        {
+            "text": "The shortest commercial flight in the world lasts only 53 seconds.",
+            "isFact": false,
+            "category": "travel",
+            "explanation": "The shortest commercial flight is between Westray and Papa Westray in Scotland's Orkney Islands, and it takes about 1.7 minutes (around 90-120 seconds), not 53 seconds."
+        },
+        {
+            "text": "It's impossible to sneeze with your eyes open.",
+            "isFact": false,
+            "category": "science",
+            "explanation": "While most people reflexively close their eyes during a sneeze, it is physically possible to sneeze with your eyes open. It's a reflex action, not a physiological necessity."
+        },
+        {
+            "text": "Humans are born with two fears: the fear of falling and the fear of loud noises.",
+            "isFact": true,
+            "category": "psychology"
+        },
+        {
+            "text": "A hummingbird weighs less than a penny.",
+            "isFact": true,
+            "category": "nature"
+        },
+        {
+            "text": "Ten percent of the world's population is left-handed.",
+            "isFact": true,
+            "category": "statistics"
+        },
+        {
+            "text": "Octopuses have blue blood.",
+            "isFact": true,
+            "category": "nature"
+        },
+        {
+            "text": "Cows kill more people than sharks each year.",
+            "isFact": true,
+            "category": "statistics"
+        },
+        {
+            "text": "A day on Mercury lasts two Mercury years.",
+            "isFact": false,
+            "category": "science",
+            "explanation": "A day on Mercury (one full rotation) takes about 59 Earth days, while a year on Mercury (one full orbit around the Sun) takes about 88 Earth days. So a Mercury day is about 2/3 of a Mercury year, not twice as long."
+        },
+        {
+            "text": "The inventor of the frisbee was cremated and made into frisbees after he died.",
+            "isFact": true,
+            "category": "history"
+        },
+        {
+            "text": "A group of owls is called a parliament.",
+            "isFact": true,
+            "category": "language"
+        },
+        {
+            "text": "The shortest war in history lasted just 38 minutes between Britain and Zanzibar in 1896.",
+            "isFact": true,
+            "category": "history"
+        },
+        {
+            "text": "The tongue is the strongest muscle in the human body.",
+            "isFact": false,
+            "category": "science",
+            "explanation": "The tongue is not the strongest muscle in the body. The title varies depending on how you define strength, but the masseter (jaw muscle) is often cited as the strongest by force exerted. The heart and gluteus maximus are other contenders."
+        },
+        {
+            "text": "The Empire State Building has its own ZIP code.",
+            "isFact": true,
+            "category": "geography"
+        },
+        {
+            "text": "Every second, 100 lightning bolts strike the Earth.",
+            "isFact": true,
+            "category": "science"
+        },
+        {
+            "text": "Sharks have existed longer than trees.",
+            "isFact": true,
+            "category": "nature"
+        },
+        {
+            "text": "There are more bacteria in your mouth than there are people on Earth.",
+            "isFact": true,
+            "category": "science"
+        },
+        {
+            "text": "A group of rhinoceroses is called a crash.",
+            "isFact": true,
+            "category": "language"
+        },
+        {
+            "text": "Vending machines kill more people annually than sharks.",
+            "isFact": true,
+            "category": "statistics"
+        },
+        {
+            "text": "A new human hair can grow for up to six years before falling out.",
+            "isFact": true,
+            "category": "science"
+        },
+        {
+            "text": "The plastic things on the end of shoelaces are called aglets.",
+            "isFact": true,
+            "category": "language"
+        },
+        {
+            "text": "The oldest 'your mom' joke was discovered on a 3,500-year-old Babylonian tablet.",
+            "isFact": true,
+            "category": "history"
+        },
+        {
+            "text": "Cows have four stomachs.",
+            "isFact": false,
+            "category": "nature",
+            "explanation": "Cows have one stomach with four compartments: the rumen, reticulum, omasum, and abomasum. These compartments allow them to digest plant material efficiently."
+        },
+        {
+            "text": "A single cloud can weigh more than a million pounds.",
+            "isFact": true,
+            "category": "science"
+        },
+        {
+            "text": "The shortest war in recorded history lasted less than an hour.",
+            "isFact": true,
+            "category": "history"
+        },
+        {
+            "text": "A day on Venus is longer than a year on Venus.",
+            "isFact": true,
+            "category": "science"
+        },
+        {
+            "text": "The world's largest desert is Antarctica.",
+            "isFact": true,
+            "category": "geography"
+        },
+        {
+            "text": "The average person will spend six months of their life waiting at red lights.",
+            "isFact": true,
+            "category": "statistics"
+        },
+        {
+            "text": "A giraffe's neck contains the same number of vertebrae as a human neck.",
+            "isFact": true,
+            "category": "nature"
+        },
+        {
+            "text": "The world's smallest country by land area is the Vatican City.",
+            "isFact": true,
+            "category": "geography"
+        },
+        {
+            "text": "The center of a comet is called the crux.",
+            "isFact": false,
+            "category": "science",
+            "explanation": "The center of a comet is called the nucleus, not the crux. The crux is a constellation in the southern sky."
+        },
+        {
+            "text": "Maine is the only U.S. state with a one-syllable name.",
+            "isFact": true,
+            "category": "geography"
+        },
+        {
+            "text": "A banana is a berry, but a strawberry isn't.",
+            "isFact": true,
+            "category": "food"
+        },
+        {
+            "text": "The platypus is the only mammal that lays eggs.",
+            "isFact": false,
+            "category": "nature",
+            "explanation": "The platypus is not the only mammal that lays eggs. Echidnas (spiny anteaters) also lay eggs. Together, platypuses and echidnas make up the monotremes, the egg-laying mammals."
+        },
+        {
+            "text": "The total weight of all the ants on Earth outweighs all the humans.",
+            "isFact": true,
+            "category": "nature"
+        },
+        {
+            "text": "You can't hum while holding your nose.",
+            "isFact": true,
+            "category": "science"
+        },
+        {
+            "text": "Octopuses have three hearts and blue blood.",
+            "isFact": true,
+            "category": "nature"
+        },
+        {
+            "text": "A group of bears is called a sloth.",
+            "isFact": true,
+            "category": "language"
+        },
+        {
+            "text": "There are more plastic flamingos in the United States than real ones.",
+            "isFact": true,
+            "category": "statistics"
+        },
+        {
+            "text": "A duck's quack doesn't echo.",
+            "isFact": false,
+            "category": "science",
+            "explanation": "Duck quacks do echo, just like any other sound. This myth has been repeatedly debunked by acoustic scientists who have tested it in echo chambers."
+        },
+        {
+            "text": "The shortest commercial flight in the world is in Scotland and lasts just under two minutes.",
+            "isFact": true,
+            "category": "travel"
+        },
+        {
+            "text": "Cats and dogs sweat only through their paws.",
+            "isFact": true,
+            "category": "nature"
+        },
+        {
+            "text": "The national animal of Scotland is the unicorn.",
+            "isFact": true,
+            "category": "culture"
+        },
+        {
+            "text": "Strawberries are the only fruits with seeds on the outside.",
+            "isFact": true,
+            "category": "food"
+        },
+        {
+            "text": "The moon has moonquakes.",
+            "isFact": true,
+            "category": "science"
+        },
+        {
+            "text": "Most people have an above-average number of legs.",
+            "isFact": true,
+            "category": "statistics"
+        },
+        {
+            "text": "Babies are born without kneecaps.",
+            "isFact": false,
+            "category": "science",
+            "explanation": "Babies are born with kneecaps made of cartilage, not bone. These cartilage kneecaps gradually ossify (turn to bone) during childhood, usually completing around age 3-5."
+        }
+    ]
+}
